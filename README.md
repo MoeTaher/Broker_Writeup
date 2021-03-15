@@ -21,7 +21,7 @@ you can find an interesting topic called "secret_chat"
 
 ![Screenshot from 2021-03-15 14-41-14](https://user-images.githubusercontent.com/58278761/111158805-23b18f00-85a1-11eb-8d83-aed79f07459e.png)
 
-Use Mqtt client to listen and see the queued messages 
+Use Mqtt client to Subscribe to the "secret_chat" and see the queued messages 
 
 ![Screenshot from 2021-03-15 14-44-03](https://user-images.githubusercontent.com/58278761/111159102-683d2a80-85a1-11eb-9c62-68da03ae5189.png)
 # Foothold
